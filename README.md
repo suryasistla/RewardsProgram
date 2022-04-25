@@ -9,7 +9,7 @@ For further reference, please consider the following sections:
 * [Spring Data JPA](https://docs.spring.io/spring-boot/docs/2.6.7/reference/htmlsingle/#boot-features-jpa-and-spring-data)
 * [Spring Web](https://docs.spring.io/spring-boot/docs/2.6.7/reference/htmlsingle/#boot-features-developing-web-applications)
 
-#Assignment and Instructions:
+# Assignment and Instructions:
 A retailer offers a rewards program to its customers, awarding points based on each recorded purchase.
  
 A customer receives 2 points for every dollar spent over $100 in each transaction, plus 1 point for every dollar spent over $50 in each transaction
@@ -18,14 +18,14 @@ A customer receives 2 points for every dollar spent over $100 in each transactio
 Given a record of every transaction during a three month period, calculate the reward points earned for each customer per month and total.
 
 
-#Execution:
+# Execution:
 install maven plugin.
 open command prompt
 run mvn clean install
 java -jar program-0.0.1-SNAPSHOT.jar
 
-#Test
+# Test
 
 Install postman 
 create collection with url
-
+The collections are attahced with in the repo
