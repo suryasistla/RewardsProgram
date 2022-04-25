@@ -20,12 +20,17 @@ Given a record of every transaction during a three month period, calculate the r
 
 # Execution:
 install maven plugin.
+
 open command prompt
+
 run mvn clean install
+
 java -jar program-0.0.1-SNAPSHOT.jar
 
 # Test
 
 Install postman 
+
 create collection with url
+
 The collections are attahced with in the repo
